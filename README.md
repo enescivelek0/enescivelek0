@@ -12,6 +12,7 @@
 - SQL Server
 - HTML, CSS, JavaScript, TypeScript
 - Vue.js, Vite
+- Bootstrap
 - Git & GitHub
 
 ---
@@ -31,10 +32,10 @@
 ## 🏆 Sertifikalarım
 - InfoTech Academy - Yazılım Uzmanlığı Sertifikası (2021)  
 - Acunmedya Akademi - Yazılım Uzmanlığı Eğitimi Sertifikası (2024)  
-- OBSS & Pavo Group Stajları  
 
 ---
 
 ## 📫 Bana Ulaşın
+- 🌐 Web: [enescivelek.com](https://enescivelek.com)  
 - LinkedIn: [linkedin.com/in/enes-civelek](https://linkedin.com/in/enes-civelek)  
 - GitHub: [github.com/enescivelek0](https://github.com/enescivelek0)  
