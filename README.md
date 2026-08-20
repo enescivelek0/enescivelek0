@@ -77,15 +77,6 @@
 
 ---
 
-## 📈 GitHub İstatistikleri
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enescivelek0&show_icons=true&theme=dark&bg_color=050505&title_color=f5f5f5&text_color=888888&icon_color=f5f5f5&border_color=222222&locale=tr&hide_border=false" alt="Enes Civelek GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enescivelek0&layout=compact&theme=dark&bg_color=050505&title_color=f5f5f5&text_color=888888&border_color=222222&locale=tr&hide_border=false" alt="Enes Civelek En Çok Kullanılan Diller" width="48%" />
-</div>
-
----
-
 <div align="center">
   <sub>© 2026 Enes Civelek — Web sitem üzerinden iletişime geçebilirsiniz: <a href="https://enescivelek.com">enescivelek.com</a></sub>
 </div>
